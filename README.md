@@ -8,7 +8,6 @@ This is a quick weekend project to build a [NUKI Opener](https://nuki.io/en/open
 
 https://user-images.githubusercontent.com/22987140/118402687-4fb5c300-b66b-11eb-8552-adb4ac6925ae.mp4
 
-![Demonstration how Servo presses button](./media/press-button-demo.gif)
 ![Prototype mounted to bell system](./media/final-prototype.jpg)
 
 ## How does it work?
