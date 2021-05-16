@@ -4,11 +4,7 @@ This is a quick weekend project to build a nuki opener like device that does not
 
 ## Demo
 
-<video width="1080" height="1920" autoplay controls muted>
-  <source src="./media/press-button-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![Demonstration how Servo presses button](./media/press-button-demo.gif)
 ![Prototype mounted to bell system](./media/final-prototype.jpg)
 
 ## How does it work?
