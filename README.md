@@ -1,6 +1,6 @@
 # DIY Nuki Opener
 
-This is a quick weekend project to build a nuki opener like device that does not need any modification of an existing bell system and works with capacitive buttons.
+This is a quick weekend project to build a [NUKI Opener](https://nuki.io/en/opener/) like device that does not need any modification of an existing bell system and even works with capacitive buttons.
 
 ## Demo
 
